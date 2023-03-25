@@ -7,3 +7,11 @@ first working setting with
 -  Retraction Speed 40mm/s 
 -  Buildplate 60°C
 -  Fan Speed 75%
+
+
+### Yellow Profile
+-  Printing Temperature 220°C 
+-  Retraction distance 5mm 
+-  Retraction Speed 40mm/s 
+-  Buildplate 60°C
+-  Fan Speed 100%
