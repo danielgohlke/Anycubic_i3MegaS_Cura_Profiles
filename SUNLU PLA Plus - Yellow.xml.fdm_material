@@ -18,11 +18,11 @@
     <diameter>1.75</diameter>
   </properties>
   <settings>
-    <setting key="print temperature">220.0</setting>
+    <setting key="print temperature">230.0</setting>
     <setting key="standby temperature">190.0</setting>
     <setting key="heated bed temperature">60.0</setting>
     <setting key="build volume temperature">28</setting>
-    <setting key="print cooling">100.0</setting>
+    <setting key="print cooling">75.0</setting>
     <setting key="adhesion tendency">0</setting>
     <setting key="surface energy">100</setting>
     <setting key="retraction amount">5.0</setting>
@@ -32,6 +32,7 @@
       <setting key="print temperature">200</setting>
       <setting key="standby temperature">180.0</setting>
       <setting key="heated bed temperature">55</setting>
+      <setting key="print cooling">100.0</setting>
       <setting key="retraction amount">7.0</setting>
       <setting key="retraction speed">45.0</setting>
     </machine>
@@ -40,6 +41,7 @@
       <setting key="print temperature">200</setting>
       <setting key="standby temperature">180.0</setting>
       <setting key="heated bed temperature">55</setting>
+      <setting key="print cooling">100.0</setting>
       <setting key="retraction amount">7.0</setting>
       <setting key="retraction speed">45.0</setting>
     </machine>
@@ -48,6 +50,7 @@
       <setting key="print temperature">200</setting>
       <setting key="standby temperature">180.0</setting>
       <setting key="heated bed temperature">55</setting>
+      <setting key="print cooling">100.0</setting>
       <setting key="retraction amount">7.0</setting>
       <setting key="retraction speed">45.0</setting>
     </machine>
@@ -56,6 +59,7 @@
       <setting key="print temperature">200</setting>
       <setting key="standby temperature">180.0</setting>
       <setting key="heated bed temperature">55</setting>
+      <setting key="print cooling">100.0</setting>
       <setting key="retraction amount">7.0</setting>
       <setting key="retraction speed">45.0</setting>
     </machine>
@@ -64,6 +68,7 @@
       <setting key="print temperature">200</setting>
       <setting key="standby temperature">180.0</setting>
       <setting key="heated bed temperature">55</setting>
+      <setting key="print cooling">100.0</setting>
       <setting key="retraction amount">7.0</setting>
       <setting key="retraction speed">45.0</setting>
     </machine>
@@ -72,6 +77,7 @@
       <setting key="print temperature">200</setting>
       <setting key="standby temperature">180.0</setting>
       <setting key="heated bed temperature">55</setting>
+      <setting key="print cooling">100.0</setting>
       <setting key="retraction amount">7.0</setting>
       <setting key="retraction speed">45.0</setting>
     </machine>
@@ -80,6 +86,7 @@
       <setting key="print temperature">200</setting>
       <setting key="standby temperature">180.0</setting>
       <setting key="heated bed temperature">55</setting>
+      <setting key="print cooling">100.0</setting>
       <setting key="retraction amount">7.0</setting>
       <setting key="retraction speed">45.0</setting>
     </machine>
@@ -88,6 +95,7 @@
       <setting key="print temperature">200</setting>
       <setting key="standby temperature">180.0</setting>
       <setting key="heated bed temperature">55</setting>
+      <setting key="print cooling">100.0</setting>
       <setting key="retraction amount">7.0</setting>
       <setting key="retraction speed">45.0</setting>
     </machine>
@@ -96,6 +104,7 @@
       <setting key="print temperature">200</setting>
       <setting key="standby temperature">180.0</setting>
       <setting key="heated bed temperature">55</setting>
+      <setting key="print cooling">100.0</setting>
       <setting key="retraction amount">7.0</setting>
       <setting key="retraction speed">45.0</setting>
     </machine>
@@ -104,6 +113,7 @@
       <setting key="print temperature">200</setting>
       <setting key="standby temperature">200</setting>
       <setting key="heated bed temperature">50</setting>
+      <setting key="print cooling">100.0</setting>
       <setting key="retraction amount">7.0</setting>
       <setting key="retraction speed">45.0</setting>
     </machine>
@@ -111,6 +121,7 @@
       <machine_identifier manufacturer="Kati Hal ARGE" product="kupido" />
       <setting key="print temperature">200</setting>
       <setting key="standby temperature">180.0</setting>
+      <setting key="print cooling">100.0</setting>
       <setting key="retraction amount">0.8</setting>
     </machine>
     <machine>
@@ -118,6 +129,7 @@
       <setting key="print temperature">210.0</setting>
       <setting key="standby temperature">175</setting>
       <setting key="heated bed temperature">55</setting>
+      <setting key="print cooling">100.0</setting>
       <setting key="retraction amount">7.0</setting>
       <setting key="retraction speed">45.0</setting>
       <hotend id="0.4 mm">
@@ -129,6 +141,7 @@
       <setting key="print temperature">200</setting>
       <setting key="standby temperature">180.0</setting>
       <setting key="heated bed temperature">50</setting>
+      <setting key="print cooling">100.0</setting>
       <setting key="retraction speed">45.0</setting>
     </machine>
     <machine>
@@ -136,6 +149,7 @@
       <setting key="print temperature">200</setting>
       <setting key="standby temperature">180.0</setting>
       <setting key="heated bed temperature">50</setting>
+      <setting key="print cooling">100.0</setting>
       <setting key="retraction speed">45.0</setting>
     </machine>
     <machine>
@@ -143,6 +157,7 @@
       <setting key="print temperature">200</setting>
       <setting key="standby temperature">180.0</setting>
       <setting key="heated bed temperature">50</setting>
+      <setting key="print cooling">100.0</setting>
       <setting key="retraction speed">45.0</setting>
     </machine>
     <machine>
@@ -150,6 +165,7 @@
       <setting key="print temperature">200</setting>
       <setting key="standby temperature">180.0</setting>
       <setting key="heated bed temperature">50</setting>
+      <setting key="print cooling">100.0</setting>
       <setting key="retraction speed">45.0</setting>
     </machine>
     <machine>
@@ -157,6 +173,7 @@
       <setting key="print temperature">200</setting>
       <setting key="standby temperature">180.0</setting>
       <setting key="heated bed temperature">50</setting>
+      <setting key="print cooling">100.0</setting>
       <setting key="retraction speed">45.0</setting>
     </machine>
     <machine>
@@ -164,6 +181,7 @@
       <setting key="print temperature">200</setting>
       <setting key="standby temperature">180.0</setting>
       <setting key="heated bed temperature">50</setting>
+      <setting key="print cooling">100.0</setting>
       <setting key="retraction speed">45.0</setting>
     </machine>
     <machine>
@@ -171,6 +189,7 @@
       <setting key="print temperature">200</setting>
       <setting key="standby temperature">180.0</setting>
       <setting key="heated bed temperature">50</setting>
+      <setting key="print cooling">100.0</setting>
       <setting key="retraction speed">45.0</setting>
     </machine>
     <machine>
@@ -178,6 +197,7 @@
       <setting key="print temperature">200</setting>
       <setting key="standby temperature">180.0</setting>
       <setting key="heated bed temperature">50</setting>
+      <setting key="print cooling">100.0</setting>
       <setting key="retraction speed">45.0</setting>
     </machine>
     <machine>
@@ -185,6 +205,7 @@
       <setting key="print temperature">200</setting>
       <setting key="standby temperature">180.0</setting>
       <setting key="heated bed temperature">50</setting>
+      <setting key="print cooling">100.0</setting>
       <setting key="retraction speed">45.0</setting>
     </machine>
     <machine>
@@ -192,6 +213,7 @@
       <setting key="print temperature">200</setting>
       <setting key="standby temperature">180.0</setting>
       <setting key="heated bed temperature">50</setting>
+      <setting key="print cooling">100.0</setting>
       <setting key="retraction speed">45.0</setting>
     </machine>
     <machine>
@@ -199,6 +221,7 @@
       <setting key="print temperature">200</setting>
       <setting key="standby temperature">180.0</setting>
       <setting key="heated bed temperature">50</setting>
+      <setting key="print cooling">100.0</setting>
       <setting key="retraction speed">45.0</setting>
     </machine>
     <machine>
@@ -206,6 +229,7 @@
       <setting key="print temperature">200</setting>
       <setting key="standby temperature">180.0</setting>
       <setting key="heated bed temperature">50</setting>
+      <setting key="print cooling">100.0</setting>
       <setting key="retraction speed">45.0</setting>
     </machine>
     <machine>
@@ -213,6 +237,7 @@
       <setting key="print temperature">200</setting>
       <setting key="standby temperature">180.0</setting>
       <setting key="heated bed temperature">50</setting>
+      <setting key="print cooling">100.0</setting>
       <setting key="retraction speed">45.0</setting>
     </machine>
     <machine>
@@ -239,6 +264,7 @@
       <machine_identifier manufacturer="BIQU" product="biqu_b1_abl" />
       <setting key="print temperature">180</setting>
       <setting key="standby temperature">180.0</setting>
+      <setting key="print cooling">100.0</setting>
       <setting key="retraction amount">7.0</setting>
       <setting key="retraction speed">45.0</setting>
     </machine>
@@ -246,6 +272,7 @@
       <machine_identifier manufacturer="BIQU" product="biqu_b1" />
       <setting key="print temperature">180</setting>
       <setting key="standby temperature">180.0</setting>
+      <setting key="print cooling">100.0</setting>
       <setting key="retraction amount">7.0</setting>
       <setting key="retraction speed">45.0</setting>
     </machine>
@@ -253,12 +280,14 @@
       <machine_identifier manufacturer="Kati Hal ARGE" product="alyanx3dp" />
       <setting key="print temperature">200</setting>
       <setting key="standby temperature">180.0</setting>
+      <setting key="print cooling">100.0</setting>
       <setting key="retraction amount">1.5</setting>
     </machine>
     <machine>
       <machine_identifier manufacturer="Kati Hal ARGE" product="alya3dp" />
       <setting key="print temperature">200</setting>
       <setting key="standby temperature">180.0</setting>
+      <setting key="print cooling">100.0</setting>
       <setting key="retraction amount">1.5</setting>
     </machine>
   </settings>
